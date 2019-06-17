@@ -22,7 +22,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #fbaf08 !important;
 }
 
 h1,
@@ -397,7 +397,7 @@ header.masthead .intro-text .intro-heading {
   width: 2px;
   margin-left: -1.5px;
   content: '';
-  background-color: #e9ecef;
+  background-color: /*#e9ecef*/#101357;
 }
 
 .timeline > li {
